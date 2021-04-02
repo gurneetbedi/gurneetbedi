@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gurneetbedi
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Machine Learning algorithms
-- 📫 How to reach me gurneetbedi@gmail.com
+- 📫 You can reach me at gurneetbedi@gmail.com
 
 <!---
 gurneetbedi/gurneetbedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
