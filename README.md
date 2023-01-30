@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gurneetbedi
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Machine Learning algorithms
+- 👀 I’m interested in Data engineering and Data Analytics
+- 🌱 I’m currently work as a SQL Developer
 - 📫 You can reach me at gurneetbedi@gmail.com
 
 <!---
